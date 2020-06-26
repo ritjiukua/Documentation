@@ -1,0 +1,29 @@
+DOCUMENTATION
+
+
+Purpose of software
+
+This software serves the process of performing retail store operations. This system serves to replace any traditional system of pen and paper. Here are further advantages to using a software like this:
+•	It is fast
+•	Less time consuming.
+•	Avoids error that could have been caused by humans
+•	It’s a lot more accurate.
+
+
+
+How is this software build?
+
+It consist different modules such as Stock,Employees,Payroll,Manager
+This modules work in conjunction with each other as relationships.
+This different modules all contain functions that helped reduce the problem in a simplified way because each part can be translated to pseudo code block by block.
+The functions were then translated into pseudo code in which they will be interpreted further into a full software application.
+
+
+
+
+
+The data related to this project is stored in the same directory/repository
+
+
+
+
